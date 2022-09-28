@@ -1,0 +1,64 @@
+h1{ 
+	color: #020826
+}
+
+h2	{ 
+	color: #8c7851; 
+	font-weight: 700;
+	background-color: white;
+}
+
+body {
+	background-color: #f9f4ef; 
+	font-family: 'Poppins', sans-serif;
+}
+
+
+p {
+	font-weight: 300;
+}
+
+div {
+	width: 800px;
+	padding: 16px;
+	text-align: center;
+	margin: 0 auto;
+	margin-bottom: 32px;
+	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+}
+
+.btn-brown {
+	padding: 10px 16px;
+	text-decoration: none;
+	background-color: brown;
+	color: white;
+	border: 1px solid white;
+	border-radius: 4px;
+	display: inline-block;
+
+}
+
+.btn-brown : hover {
+	background-color: red;
+}
+
+
+img{
+	width: 200px;
+	height: 200px;
+
+}
+
+#img-me {
+
+	object-fit: cover;
+}
+
+
+.border-red {
+	border: 1px solid red;
+}
+
+
+
